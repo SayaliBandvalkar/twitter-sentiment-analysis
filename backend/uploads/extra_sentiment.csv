@@ -1,0 +1,201 @@
+user_id,created_at,User,cleaned_text,sentiment,likes,retweets,Location,polarity
+1,02-02-2024,Frank,"Just chilling at home, nothing exciting.",Neutral,341,105,Delhi,0
+2,03-02-2024,Vikram,"This app keeps crashing, so frustrating.",Negative,899,233,Chennai,-1
+3,04-02-2024,Alice,This gadget is a complete waste of money.,Negative,248,423,Dallas,-1
+4,05-02-2024,Tina,The internet speed is ridiculously slow.,Negative,538,152,Las Vegas,-1
+5,06-02-2024,Sanya,Excited about my new job opportunity!,Positive,655,311,Bangalore,1
+6,07-02-2024,Mia,"Really happy with my new car, drives smoothly!",Positive,491,370,Pune,1
+7,08-02-2024,Neha,Traffic today was absolutely terrible.,Negative,1000,185,Denver,-1
+8,09-02-2024,Priya,"The new policy changes are okay, I guess.",Neutral,669,446,Hyderabad,0
+9,10-02-2024,Charlie,The internet speed is ridiculously slow.,Negative,849,358,Bangalore,-1
+10,11-02-2024,Bob,The service at this restaurant was horrible.,Negative,677,453,Boston,-1
+11,12-02-2024,Nathan,Feeling great after a productive day!,Positive,286,75,Chicago,1
+12,13-02-2024,Uma,"The book was decent, nothing groundbreaking.",Neutral,164,46,Los Angeles,0
+13,14-02-2024,Meera,Feeling great after a productive day!,Positive,826,313,Mumbai,1
+14,15-02-2024,Frank,Amazing experience at the concert last night!,Positive,307,272,Pune,1
+15,16-02-2024,Charlie,"Nothing much happened today, just an average day.",Neutral,248,363,Delhi,0
+16,17-02-2024,Grace,The internet speed is ridiculously slow.,Negative,109,213,Pune,-1
+17,18-02-2024,Wendy,Traffic today was absolutely terrible.,Negative,880,353,Hyderabad,-1
+18,19-02-2024,Priya,"Just chilling at home, nothing exciting.",Neutral,695,228,Pune,0
+19,20-02-2024,Ananya,Feeling great after a productive day!,Positive,116,212,Denver,1
+20,21-02-2024,Victor,Super happy with my workout progress!,Positive,261,483,Chicago,1
+21,22-02-2024,Nathan,The service at this restaurant was horrible.,Negative,765,260,Delhi,-1
+22,23-02-2024,Priya,Super happy with my workout progress!,Positive,718,424,Jaipur,1
+23,24-02-2024,Sanya,Had a wonderful time with friends today!,Positive,773,234,San Francisco,1
+24,25-02-2024,Quincy,Feeling great after a productive day!,Positive,31,125,Hyderabad,1
+25,26-02-2024,Ian,"Really happy with my new car, drives smoothly!",Positive,32,354,Hyderabad,1
+26,27-02-2024,Rachel,Feeling great after a productive day!,Positive,623,155,Mumbai,1
+27,28-02-2024,Alice,The service at this restaurant was horrible.,Negative,771,50,Boston,-1
+28,29-02-2024,Ananya,Super happy with my workout progress!,Positive,713,105,Los Angeles,1
+29,01-03-2024,Tina,The internet speed is ridiculously slow.,Negative,221,103,Seattle,-1
+30,02-03-2024,Wendy,"Watched a decent movie, nothing special.",Neutral,358,261,Las Vegas,0
+31,03-03-2024,Olivia,Amazing experience at the concert last night!,Positive,237,264,Mumbai,1
+32,04-03-2024,Grace,"The book was decent, nothing groundbreaking.",Neutral,141,491,Austin,0
+33,05-03-2024,David,Amazing experience at the concert last night!,Positive,991,19,Dallas,1
+34,06-03-2024,Vikram,Love the new phone! The camera is fantastic.,Positive,880,172,Bangalore,1
+35,07-03-2024,Karen,Excited about my new job opportunity!,Positive,155,47,Kolkata,1
+36,08-03-2024,Karthik,"Just chilling at home, nothing exciting.",Neutral,472,475,Seattle,0
+37,09-03-2024,Frank,Traffic today was absolutely terrible.,Negative,361,72,Boston,-1
+38,10-03-2024,Rahul,I am really disappointed with this product.,Negative,217,430,New York,-1
+39,11-03-2024,Leo,Love the new phone! The camera is fantastic.,Positive,359,126,Pune,1
+40,12-03-2024,Uma,Traffic today was absolutely terrible.,Negative,591,307,Bangalore,-1
+41,13-03-2024,Charlie,Traffic today was absolutely terrible.,Negative,576,240,New York,-1
+42,14-03-2024,Rachel,Had a wonderful time with friends today!,Positive,449,205,Delhi,1
+43,15-03-2024,Jack,"The book was decent, nothing groundbreaking.",Neutral,225,119,Mumbai,0
+44,16-03-2024,Vikram,Excited about my new job opportunity!,Positive,217,163,Las Vegas,1
+45,17-03-2024,Charlie,The internet speed is ridiculously slow.,Negative,511,230,Jaipur,-1
+46,18-03-2024,Leo,The internet speed is ridiculously slow.,Negative,718,224,Bangalore,-1
+47,19-03-2024,Uma,Love the new phone! The camera is fantastic.,Positive,547,292,Jaipur,1
+48,20-03-2024,Tina,Amazing experience at the concert last night!,Positive,471,9,Delhi,1
+49,21-03-2024,Tina,Excited about my new job opportunity!,Positive,679,320,Atlanta,1
+50,22-03-2024,Ananya,Had a wonderful time with friends today!,Positive,736,247,Ahmedabad,1
+51,23-03-2024,Karthik,"This app keeps crashing, so frustrating.",Negative,896,317,Lucknow,-1
+52,24-03-2024,Meera,Had a wonderful time with friends today!,Positive,68,91,Phoenix,1
+53,25-03-2024,Sanya,Super happy with my workout progress!,Positive,576,214,Atlanta,1
+54,26-03-2024,Uma,"Nothing much happened today, just an average day.",Neutral,929,95,Los Angeles,0
+55,27-03-2024,Nathan,"Just a regular day, nothing exciting.",Neutral,683,358,Chicago,0
+56,28-03-2024,Ian,Excited about my new job opportunity!,Positive,120,479,Las Vegas,1
+57,29-03-2024,Vikram,"Nothing much happened today, just an average day.",Neutral,157,78,Pune,0
+58,30-03-2024,Charlie,The internet speed is ridiculously slow.,Negative,351,405,Las Vegas,-1
+59,31-03-2024,Rohan,Love the new phone! The camera is fantastic.,Positive,154,5,Dallas,1
+60,01-04-2024,Sam,Excited about my new job opportunity!,Positive,475,91,Austin,1
+61,02-04-2024,Rahul,Love the new phone! The camera is fantastic.,Positive,898,85,Hyderabad,1
+62,03-04-2024,Leo,"Just a regular day, nothing exciting.",Neutral,395,263,Austin,0
+63,04-04-2024,Grace,"Nothing much happened today, just an average day.",Neutral,700,250,Kolkata,0
+64,05-04-2024,Olivia,"Just a regular day, nothing exciting.",Neutral,499,235,Austin,0
+65,06-04-2024,Quincy,"Nothing much happened today, just an average day.",Neutral,664,300,Denver,0
+66,07-04-2024,Bob,"The book was decent, nothing groundbreaking.",Neutral,904,155,Austin,0
+67,08-04-2024,Karthik,The service at this restaurant was horrible.,Negative,565,328,Kolkata,-1
+68,09-04-2024,Tina,Excited about my new job opportunity!,Positive,998,298,Lucknow,1
+69,10-04-2024,Rahul,Super happy with my workout progress!,Positive,533,314,San Diego,1
+70,11-04-2024,Peter,"The book was decent, nothing groundbreaking.",Neutral,11,278,Kolkata,0
+71,12-04-2024,Karthik,Feeling great after a productive day!,Positive,392,8,Atlanta,1
+72,13-04-2024,Vikram,The service at this restaurant was horrible.,Negative,20,385,San Diego,-1
+73,14-04-2024,Peter,"Exceptional customer service, very impressed!",Positive,747,49,Chennai,1
+74,15-04-2024,David,Super happy with my workout progress!,Positive,602,367,Pune,1
+75,16-04-2024,Nathan,Amazing experience at the concert last night!,Positive,143,352,Boston,1
+76,17-04-2024,Victor,Excited about my new job opportunity!,Positive,14,116,Boston,1
+77,18-04-2024,David,"Just a regular day, nothing exciting.",Neutral,350,400,Miami,0
+78,19-04-2024,Leo,"Just chilling at home, nothing exciting.",Neutral,435,332,Mumbai,0
+79,20-04-2024,Karen,Amazing experience at the concert last night!,Positive,408,402,San Francisco,1
+80,21-04-2024,Frank,Had a wonderful time with friends today!,Positive,615,424,Pune,1
+81,22-04-2024,Tina,"Really happy with my new car, drives smoothly!",Positive,435,351,Ahmedabad,1
+82,23-04-2024,Nathan,I am really disappointed with this product.,Negative,683,110,Ahmedabad,-1
+83,24-04-2024,Uma,I am really disappointed with this product.,Negative,26,4,New York,-1
+84,25-04-2024,Quincy,"This app keeps crashing, so frustrating.",Negative,862,127,Bangalore,-1
+85,26-04-2024,Frank,"Really happy with my new car, drives smoothly!",Positive,94,205,Boston,1
+86,27-04-2024,Aarav,"Exceptional customer service, very impressed!",Positive,369,62,Lucknow,1
+87,28-04-2024,Leo,"Nothing much happened today, just an average day.",Neutral,241,193,Kolkata,0
+88,29-04-2024,Ian,Amazing experience at the concert last night!,Positive,75,200,Miami,1
+89,30-04-2024,Neha,"Just chilling at home, nothing exciting.",Neutral,836,7,Kolkata,0
+90,01-05-2024,Ananya,Excited about my new job opportunity!,Positive,718,499,Bangalore,1
+91,02-05-2024,Jack,"Nothing much happened today, just an average day.",Neutral,661,4,San Diego,0
+92,03-05-2024,Eve,"Really happy with my new car, drives smoothly!",Positive,62,298,Atlanta,1
+93,04-05-2024,Leo,Love the new phone! The camera is fantastic.,Positive,783,198,Mumbai,1
+94,05-05-2024,Nathan,Love the new phone! The camera is fantastic.,Positive,61,439,Seattle,1
+95,06-05-2024,Charlie,Had a wonderful time with friends today!,Positive,538,445,Dallas,1
+96,07-05-2024,Priya,Traffic today was absolutely terrible.,Negative,274,408,Denver,-1
+97,08-05-2024,Xavier,"The new policy changes are okay, I guess.",Neutral,301,475,Kolkata,0
+98,09-05-2024,Priya,Traffic today was absolutely terrible.,Negative,399,215,Miami,-1
+99,10-05-2024,Olivia,"Really happy with my new car, drives smoothly!",Positive,10,126,Los Angeles,1
+100,11-05-2024,Alice,Super happy with my workout progress!,Positive,396,52,Chennai,1
+101,12-05-2024,Sanya,"Just chilling at home, nothing exciting.",Neutral,631,177,Kolkata,0
+102,13-05-2024,Karen,"Nothing much happened today, just an average day.",Neutral,122,6,Chennai,0
+103,14-05-2024,Ananya,Amazing experience at the concert last night!,Positive,834,11,Jaipur,1
+104,15-05-2024,Mia,I am really disappointed with this product.,Negative,817,306,Las Vegas,-1
+105,16-05-2024,Priya,"The book was decent, nothing groundbreaking.",Neutral,386,364,Chicago,0
+106,17-05-2024,Eve,This gadget is a complete waste of money.,Negative,930,208,Mumbai,-1
+107,18-05-2024,Charlie,"Watched a decent movie, nothing special.",Neutral,238,117,Austin,0
+108,19-05-2024,Bob,Love the new phone! The camera is fantastic.,Positive,607,498,Denver,1
+109,20-05-2024,Tina,This gadget is a complete waste of money.,Negative,598,340,Los Angeles,-1
+110,21-05-2024,Rahul,Feeling great after a productive day!,Positive,939,145,Denver,1
+111,22-05-2024,Nathan,Love the new phone! The camera is fantastic.,Positive,465,398,San Francisco,1
+112,23-05-2024,Sanya,"The book was decent, nothing groundbreaking.",Neutral,169,402,Jaipur,0
+113,24-05-2024,Jack,"Really happy with my new car, drives smoothly!",Positive,15,269,Delhi,1
+114,25-05-2024,Jack,Feeling great after a productive day!,Positive,784,48,Denver,1
+115,26-05-2024,Alice,"This app keeps crashing, so frustrating.",Negative,209,341,Miami,-1
+116,27-05-2024,Eve,I am really disappointed with this product.,Negative,60,208,Ahmedabad,-1
+117,28-05-2024,Rachel,I am really disappointed with this product.,Negative,266,454,Miami,-1
+118,29-05-2024,Wendy,This gadget is a complete waste of money.,Negative,493,242,Hyderabad,-1
+119,30-05-2024,Karthik,The service at this restaurant was horrible.,Negative,102,36,Chicago,-1
+120,31-05-2024,Vikram,This gadget is a complete waste of money.,Negative,155,462,Chicago,-1
+121,01-06-2024,Peter,"Watched a decent movie, nothing special.",Neutral,767,240,Seattle,0
+122,02-06-2024,David,Love the new phone! The camera is fantastic.,Positive,883,187,Houston,1
+123,03-06-2024,Sanya,"This app keeps crashing, so frustrating.",Negative,928,455,New York,-1
+124,04-06-2024,Uma,"Exceptional customer service, very impressed!",Positive,768,416,Seattle,1
+125,05-06-2024,Xavier,Feeling great after a productive day!,Positive,155,362,Miami,1
+126,06-06-2024,Olivia,"Just a regular day, nothing exciting.",Neutral,11,222,San Diego,0
+127,07-06-2024,Ananya,This gadget is a complete waste of money.,Negative,433,156,Denver,-1
+128,08-06-2024,Karthik,"Exceptional customer service, very impressed!",Positive,677,247,Las Vegas,1
+129,09-06-2024,Rachel,"Exceptional customer service, very impressed!",Positive,416,193,Seattle,1
+130,10-06-2024,Frank,"This app keeps crashing, so frustrating.",Negative,878,155,Ahmedabad,-1
+131,11-06-2024,Alice,The internet speed is ridiculously slow.,Negative,878,470,Lucknow,-1
+132,12-06-2024,Grace,The service at this restaurant was horrible.,Negative,895,143,Austin,-1
+133,13-06-2024,Nathan,Love the new phone! The camera is fantastic.,Positive,766,47,Atlanta,1
+134,14-06-2024,Xavier,"This app keeps crashing, so frustrating.",Negative,670,26,Ahmedabad,-1
+135,15-06-2024,Olivia,Super happy with my workout progress!,Positive,361,488,Atlanta,1
+136,16-06-2024,Bob,Traffic today was absolutely terrible.,Negative,469,392,Chennai,-1
+137,17-06-2024,Quincy,I am really disappointed with this product.,Negative,266,116,New York,-1
+138,18-06-2024,Alice,Traffic today was absolutely terrible.,Negative,343,424,Atlanta,-1
+139,19-06-2024,Nathan,Super happy with my workout progress!,Positive,980,115,Ahmedabad,1
+140,20-06-2024,Hannah,This gadget is a complete waste of money.,Negative,531,89,Seattle,-1
+141,21-06-2024,Quincy,"Nothing much happened today, just an average day.",Neutral,488,227,Denver,0
+142,22-06-2024,Mia,Traffic today was absolutely terrible.,Negative,360,412,Chennai,-1
+143,23-06-2024,Tina,The internet speed is ridiculously slow.,Negative,660,194,Austin,-1
+144,24-06-2024,Alice,Had a wonderful time with friends today!,Positive,482,92,Phoenix,1
+145,25-06-2024,Uma,Love the new phone! The camera is fantastic.,Positive,150,103,Lucknow,1
+146,26-06-2024,Eve,Had a wonderful time with friends today!,Positive,882,23,Ahmedabad,1
+147,27-06-2024,Rohan,This gadget is a complete waste of money.,Negative,587,169,Denver,-1
+148,28-06-2024,Quincy,Had a wonderful time with friends today!,Positive,727,436,Hyderabad,1
+149,29-06-2024,Eve,"Exceptional customer service, very impressed!",Positive,505,29,Houston,1
+150,30-06-2024,Xavier,"Nothing much happened today, just an average day.",Neutral,103,284,Chennai,0
+151,01-07-2024,Leo,Super happy with my workout progress!,Positive,842,52,Chennai,1
+152,02-07-2024,Tina,"Exceptional customer service, very impressed!",Positive,144,152,Jaipur,1
+153,03-07-2024,Vikram,The service at this restaurant was horrible.,Negative,476,391,Los Angeles,-1
+154,04-07-2024,Mia,"Just a regular day, nothing exciting.",Neutral,636,233,Chennai,0
+155,05-07-2024,Jack,"Nothing much happened today, just an average day.",Neutral,624,172,Denver,0
+156,06-07-2024,Peter,This gadget is a complete waste of money.,Negative,615,180,Houston,-1
+157,07-07-2024,Ian,The service at this restaurant was horrible.,Negative,113,152,Phoenix,-1
+158,08-07-2024,Neha,Traffic today was absolutely terrible.,Negative,590,100,Miami,-1
+159,09-07-2024,Sanya,"Watched a decent movie, nothing special.",Neutral,93,413,Boston,0
+160,10-07-2024,Xavier,I am really disappointed with this product.,Negative,173,474,San Francisco,-1
+161,11-07-2024,Sanya,Love the new phone! The camera is fantastic.,Positive,117,220,Las Vegas,1
+162,12-07-2024,Grace,I am really disappointed with this product.,Negative,533,0,Atlanta,-1
+163,13-07-2024,Leo,I am really disappointed with this product.,Negative,683,96,San Francisco,-1
+164,14-07-2024,David,I am really disappointed with this product.,Negative,108,313,San Diego,-1
+165,15-07-2024,Priya,"Exceptional customer service, very impressed!",Positive,175,145,Ahmedabad,1
+166,16-07-2024,Charlie,Amazing experience at the concert last night!,Positive,773,226,Chennai,1
+167,17-07-2024,Rohan,I am really disappointed with this product.,Negative,544,265,Lucknow,-1
+168,18-07-2024,Jack,"Nothing much happened today, just an average day.",Neutral,419,193,Denver,0
+169,19-07-2024,Rachel,Feeling great after a productive day!,Positive,723,330,Hyderabad,1
+170,20-07-2024,Tina,I am really disappointed with this product.,Negative,876,159,San Francisco,-1
+171,21-07-2024,Sanya,Love the new phone! The camera is fantastic.,Positive,585,405,Pune,1
+172,22-07-2024,Frank,"Really happy with my new car, drives smoothly!",Positive,952,158,New York,1
+173,23-07-2024,Grace,"Really happy with my new car, drives smoothly!",Positive,182,124,Bangalore,1
+174,24-07-2024,Rahul,Love the new phone! The camera is fantastic.,Positive,671,479,Phoenix,1
+175,25-07-2024,David,I am really disappointed with this product.,Negative,945,239,San Diego,-1
+176,26-07-2024,Alice,"Watched a decent movie, nothing special.",Neutral,941,273,Hyderabad,0
+177,27-07-2024,Olivia,"Nothing much happened today, just an average day.",Neutral,970,432,Delhi,0
+178,28-07-2024,Victor,This gadget is a complete waste of money.,Negative,67,396,Chennai,-1
+179,29-07-2024,Mia,"Watched a decent movie, nothing special.",Neutral,889,190,Los Angeles,0
+180,30-07-2024,Vikram,"Nothing much happened today, just an average day.",Neutral,421,52,Lucknow,0
+181,31-07-2024,Ian,"This app keeps crashing, so frustrating.",Negative,178,259,Jaipur,-1
+182,01-08-2024,Quincy,"Just chilling at home, nothing exciting.",Neutral,783,283,Dallas,0
+183,02-08-2024,Karen,Super happy with my workout progress!,Positive,692,318,Mumbai,1
+184,03-08-2024,Alice,"The new policy changes are okay, I guess.",Neutral,595,293,Los Angeles,0
+185,04-08-2024,Grace,"Watched a decent movie, nothing special.",Neutral,795,138,Atlanta,0
+186,05-08-2024,Leo,"Just chilling at home, nothing exciting.",Neutral,437,288,Phoenix,0
+187,06-08-2024,Ananya,"The new policy changes are okay, I guess.",Neutral,638,294,Boston,0
+188,07-08-2024,Leo,"Exceptional customer service, very impressed!",Positive,798,430,San Diego,1
+189,08-08-2024,Alice,The service at this restaurant was horrible.,Negative,878,273,Hyderabad,-1
+190,09-08-2024,Wendy,"Nothing much happened today, just an average day.",Neutral,265,364,Delhi,0
+191,10-08-2024,Tina,"Watched a decent movie, nothing special.",Neutral,323,262,Denver,0
+192,11-08-2024,Nathan,"Just a regular day, nothing exciting.",Neutral,629,417,Denver,0
+193,12-08-2024,Nathan,"Just chilling at home, nothing exciting.",Neutral,178,105,Las Vegas,0
+194,13-08-2024,Mia,The service at this restaurant was horrible.,Negative,184,418,Delhi,-1
+195,14-08-2024,Leo,"Just a regular day, nothing exciting.",Neutral,563,358,Dallas,0
+196,15-08-2024,Sam,Amazing experience at the concert last night!,Positive,703,4,Phoenix,1
+197,16-08-2024,Jack,"Watched a decent movie, nothing special.",Neutral,673,218,Denver,0
+198,17-08-2024,Olivia,Amazing experience at the concert last night!,Positive,969,244,Lucknow,1
+199,18-08-2024,Rahul,Love the new phone! The camera is fantastic.,Positive,797,377,Ahmedabad,1
+200,19-08-2024,Frank,"Really happy with my new car, drives smoothly!",Positive,727,423,Miami,1

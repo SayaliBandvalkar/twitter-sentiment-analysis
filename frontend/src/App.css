@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(135deg, #060606, #657786);
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .container {
+    min-height: 100vh;
+  }
+  
+  .card {
+    background: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .btn-primary {
+    background-color: #1da1f2;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0d8de0;
+  }
+  
+  .text-decoration-none {
+    color: #1da1f2;
+  }
+  
+  .text-decoration-none:hover {
+    text-decoration: underline;
+  }
+  

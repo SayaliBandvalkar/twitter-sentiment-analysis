@@ -1,0 +1,85 @@
+/* Container for register */
+.register-container {
+  background: url("../assets/x-image.jpg") no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+/* Register form styles */
+.register-form {
+  width: 100%;
+  max-width: 400px;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.register-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+}
+
+.register-form input {
+  width: 100%;
+  padding: 10px 15px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.register-form input:focus {
+  border-color: #007bff;
+  box-shadow: 0 4px 10px rgba(0, 123, 255, 0.3);
+  outline: none;
+}
+
+/* Buttons */
+.register-form .btn {
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 1rem;
+  font-weight: bold;
+  border: 1px solid white; /* White border */
+  transition: all 0.3s ease;
+}
+
+.register-form .btn-google {
+  background: transparent;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.register-form .btn-google:hover {
+  background: white;
+  color: black;
+}
+
+.register-form .btn-apple {
+  background: transparent;
+  color: white;
+}
+
+.register-form .btn-apple:hover {
+  background: white;
+  color: black;
+}
+
+/* Links */
+.register-form a {
+  text-decoration: none;
+  color: white;
+}
+
+.register-form a:hover {
+  color: #007bff;
+}

@@ -1,0 +1,61 @@
+
+  body {
+    background-color: white !important;
+    color: #f8f3f3;
+    font-family: Arial, sans-serif;
+    margin-top: 70px;
+    padding: 0;
+  }
+
+
+  h2, h3 {
+    color: #2e2e2e;
+  }
+  
+  .table-dark {
+    background-color: white !important;
+    color: black !important;
+  }
+  
+  .table-dark thead th {
+    background-color: hsl(0, 100%, 2%) !important;
+    color: white !important;
+  }
+  
+  .table-dark tbody tr {
+    background-color: white !important;
+    color: black !important;
+  }
+  
+  .table-dark tbody tr:nth-child(even) {
+    background-color: #f8f9fa !important;
+  }
+  
+  .text-success {
+    color: #28a745 !important;
+  }
+  
+  .text-primary {
+    color: #007bff !important;
+  }
+  
+  .text-danger {
+    color: #dc3545 !important;
+  }
+  
+  .leaflet-container {
+    background: white !important;
+    border-radius: 8px;
+  } 
+
+
+
+
+
+
+
+
+
+
+
+

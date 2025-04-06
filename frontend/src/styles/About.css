@@ -1,0 +1,87 @@
+
+.about-container {
+  background: url("../assets/social-discussion.jpg") no-repeat center center/cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  /* background: #121212; */
+  color: hwb(0 4% 96%);
+  min-height: 100vh;
+}
+
+.flashcard {
+  background: #eee8e85f;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+  max-width: 800px;
+  text-align: center;
+  box-shadow: 0 4px 10px #f8f5f5eb;
+  transition: transform 0.3s ease;
+}
+
+.flashcard:hover {
+  transform: translateY(-5px);
+}
+
+h1, h2 {
+  color: #1dbf73;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+
+h3 {
+  color: #1dbf73;
+  font-size: 2.2em;
+}
+
+p {
+  font-size: 20px;
+}
+
+.feature-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  text-align: left;
+}
+
+.feature {
+  padding: 10px;
+  background: rgba(188, 187, 187, 0.121);
+  border-radius: 8px;
+  transition: background 0.3s ease;
+}
+
+.feature:hover {
+  background: rgba(110, 109, 109, 0.37);
+}
+
+.cta {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.cta-button {
+  display: inline-block;
+  background: #1dbf73;
+  color: white;
+  padding: 12px 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.cta-button:hover {
+  background: #17a15b;
+}

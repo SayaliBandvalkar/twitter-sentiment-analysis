@@ -1,0 +1,10 @@
+.home-container {
+  background: url("../assets/background.jpg") no-repeat center center/cover;
+  height: 100vh;
+  color: rgb(6, 6, 6);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

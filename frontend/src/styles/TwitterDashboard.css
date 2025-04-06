@@ -1,0 +1,143 @@
+/* Set full-page background to white */
+body {
+  background-color: white !important;
+  color: black;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Dashboard Container */
+.dashboard-container {
+  max-width: 2000px;
+  margin: 0px auto;
+  background: whitesmoke;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 0px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Fixed shadow color */
+}
+
+/* Navbar remains black with white text */
+.navbar {
+  background-color: black;
+  padding: 15px;
+  text-align: center;
+  margin-bottom: 20px; /* Ensure proper spacing */
+}
+
+.navbar h2 {
+  color: white;
+  margin: 0;
+}
+
+/* Dashboard header */
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #ddd;
+}
+
+.dashboard-header h2 {
+  font-size: 24px;
+  color: #333;
+}
+
+/* Flip Cards Container */
+.stats-container {
+  color: black !important; /* Ensure text is visible */
+  display: flex;
+  justify-content: center;
+  gap: 180px; /* Increased spacing between flip cards */
+  margin-top: 20px;
+  flex-wrap: wrap; /* Ensures responsiveness */
+  margin-bottom: 30px;
+}
+
+/* Flip Card Styles */
+.flip-card {
+  background-color: transparent;
+  width: 220px;
+  height: 130px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transform-style: preserve-3d;
+  transition: transform 0.6s;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Ensure flip card front and back remain white */
+.flip-card-front {
+  background: white;
+}
+
+.flip-card-back {
+  background: rgb(240, 239, 239);
+  transform: rotateY(180deg);
+}
+
+/* Table Scroll */
+.tweets-table-container {
+  max-height: 300px; /* Adjust height as needed */
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+/* Tweets Table */
+.tweets-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tweets-table thead {
+  position: sticky;
+  top: 0;
+  background-color: #080808; /* Darkened for better contrast */
+  color: white; /* Changed from light grey */
+  
+  z-index: 2;
+}
+
+.tweets-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+  color: rgb(7, 7, 7) !important;  /* Force black text */
+}
+
+/* Table Row Striping for Better Readability */
+.tweets-table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.tweets-table thead {
+  background-color: #040404 !important; /* Darker contrast */
+  color: white !important; /* Ensure visibility */
+}
+
