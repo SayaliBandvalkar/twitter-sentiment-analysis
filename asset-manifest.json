@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68ca7705.css",
+    "main.js": "/static/js/main.2bbea697.js",
+    "static/media/social-discussion.jpg": "/static/media/social-discussion.4f1c3023535917e041e1.jpg",
+    "static/media/tweethublogo.png": "/static/media/tweethublogo.c13eaa5f553f4444dad0.png",
+    "static/media/x-image.jpg": "/static/media/x-image.77ce7ae04acc54f83c6f.jpg",
+    "static/media/background.jpg": "/static/media/background.ff6033f22229157d234a.jpg",
+    "index.html": "/index.html",
+    "main.68ca7705.css.map": "/static/css/main.68ca7705.css.map",
+    "main.2bbea697.js.map": "/static/js/main.2bbea697.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68ca7705.css",
+    "static/js/main.2bbea697.js"
+  ]
+}
