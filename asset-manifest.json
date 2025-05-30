@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/twitter-sentiment-analysis/static/css/main.b1f90106.css",
-    "main.js": "/twitter-sentiment-analysis/static/js/main.175b4c5e.js",
+    "main.js": "/twitter-sentiment-analysis/static/js/main.0a0f01d6.js",
     "static/media/social-discussion.jpg": "/twitter-sentiment-analysis/static/media/social-discussion.4f1c3023535917e041e1.jpg",
     "static/media/tweethublogo.png": "/twitter-sentiment-analysis/static/media/tweethublogo.c13eaa5f553f4444dad0.png",
     "static/media/x-image.jpg": "/twitter-sentiment-analysis/static/media/x-image.77ce7ae04acc54f83c6f.jpg",
     "static/media/background.jpg": "/twitter-sentiment-analysis/static/media/background.ff6033f22229157d234a.jpg",
     "index.html": "/twitter-sentiment-analysis/index.html",
     "main.b1f90106.css.map": "/twitter-sentiment-analysis/static/css/main.b1f90106.css.map",
-    "main.175b4c5e.js.map": "/twitter-sentiment-analysis/static/js/main.175b4c5e.js.map"
+    "main.0a0f01d6.js.map": "/twitter-sentiment-analysis/static/js/main.0a0f01d6.js.map"
   },
   "entrypoints": [
     "static/css/main.b1f90106.css",
-    "static/js/main.175b4c5e.js"
+    "static/js/main.0a0f01d6.js"
   ]
 }
